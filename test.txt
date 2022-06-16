@@ -1,0 +1,58 @@
+12345
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ pwd
+/d/workspace/git
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ dir
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ ls
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ ls
+test.txt
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ ls -l -a
+total 1
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:36 ../
+-rw-r--r-- 1 KTE001 197121 5 Jun 16 09:41 test.txt
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ ls -al
+total 1
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:36 ../
+-rw-r--r-- 1 KTE001 197121 5 Jun 16 09:41 test.txt
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ ll
+total 1
+-rw-r--r-- 1 KTE001 197121 5 Jun 16 09:41 test.txt
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ ls -alS
+total 1
+-rw-r--r-- 1 KTE001 197121 5 Jun 16 09:41 test.txt
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:36 ../
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ ls -alh
+total 1.0K
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:36 ../
+-rw-r--r-- 1 KTE001 197121 5 Jun 16 09:41 test.txt
+
+KTE001@DESKTOP-IG6U7RF MINGW64 /d/workspace/git
+$ ls -alt
+total 1
+-rw-r--r-- 1 KTE001 197121 5 Jun 16 09:41 test.txt
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:36 ../
+
+drwxr-xr-x 1 KTE001 197121 0 Jun 16 09:36 ../
+
